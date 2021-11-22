@@ -130,7 +130,7 @@ https://maximromanov.github.io/dh_in_mes/files/articles/1860-11-12_article_03.tx
 ## Homework{#HWL06}
 
 1. Scraping the “Dispatch”: download issues of “Richmond Times Dispatch” (Years 1860-1865, only!), which are available at: <http://www.perseus.tufts.edu/hopper/collection?collection=Perseus:collection:RichTimes>)
-2. In a separate markdown file (to be uloaded with the rest of your homework).
+2. In a separate markdown file (to be uploaded with the rest of your homework).
 
 **Python**
 
